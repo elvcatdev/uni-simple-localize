@@ -8,7 +8,7 @@ uni-simple-localize is a package that makes it easy to add multilingual support 
 
 ## Usage
 
-1. Download <button onclick="window.open('/Releases/uni-simple-localize-1_0_0.unitypackage')">uni-simple-localize-1_0_0.unitypackage</button>
+1. Download [uni-simple-localize-1_0_0.unitypackage](/Releases/uni-simple-localize-1_0_0.unitypackage).
 1. Import **uni-simple-localize-1_0_0.unitypackage** to your Unity project.
 1. Edit **UniSimpleLocalize/Resources/SimpleLocalizeManager**. This is a scritable object that manage languages needed for localization.
   ![SimpleLocalizeManager](/Docs/SimpleLocalizeManager.png)
