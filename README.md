@@ -15,7 +15,7 @@ uni-simple-localize is a package that makes it easy to add multilingual support 
 1. Drop and use Prefabs
 
   | PrefabPath | Img |
-  |:-----------|------------:|:------------:|
+  |:---|:---|
   | **UniSimpleLocalize/Prefabs/SimpleLocalizeText.prefab** | ![SimpleLocalizeText](/Docs/SimpleLocalizeText.png) |
   | **UniSimpleLocalize/Prefabs/SimpleLocalizeImage.prefab** | ![SimpleLocalizeImage](/Docs/SimpleLocalizeImage.png) |
   | **UniSimpleLocalize/Prefabs/LangSwitcher.prefab** | ![LangSwitcher](/Docs/LangSwitcher.png) |
