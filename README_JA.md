@@ -9,7 +9,7 @@ uni-simple-localizeはUIのTEXTとIMAGEを簡単にローカライズできる�
 
 ## 使い方
 
-1. パッケージをダウンロード [uni-simple-localize-1_0_0.unitypackage](/Release/uni-simple-localize-1_0_0.unitypackage).
+1. パッケージをダウンロード <button onclick="window.open('/Releases/uni-simple-localize-1_0_0.unitypackage')">uni-simple-localize-1_0_0.unitypackage</button>
 1. **uni-simple-localize-1_0_0.unitypackage** をプロジェクトにインポートする。
 1. **UniSimpleLocalize/Resources/SimpleLocalizeManager**を編集する。**SimpleLocalizeManager**はプロジェクトで使用する言語を管理するスクリタブルオブジェクトです。
   ![SimpleLocalizeManager](/Docs/SimpleLocalizeManager.png)
