@@ -16,7 +16,7 @@ uni-simple-localizeはUIのTEXTとIMAGEを簡単にローカライズできる�
 1. プレハブをシーンにドロップして使用する。
 
   | PrefabPath | Img |
-  |:-----------|------------:|:------------:|
+  ----|----
   | **UniSimpleLocalize/Prefabs/SimpleLocalizeText.prefab** | ![SimpleLocalizeText](/Docs/SimpleLocalizeText.png) |
   | **UniSimpleLocalize/Prefabs/SimpleLocalizeImage.prefab** | ![SimpleLocalizeImage](/Docs/SimpleLocalizeImage.png) |
   | **UniSimpleLocalize/Prefabs/LangSwitcher.prefab** | ![LangSwitcher](/Docs/LangSwitcher.png) |
