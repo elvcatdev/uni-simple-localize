@@ -14,16 +14,16 @@ uni-simple-localizeはUIのTEXTとIMAGEを簡単にローカライズできる�
 1. **UniSimpleLocalize/Resources/SimpleLocalizeManager**を編集する。**SimpleLocalizeManager**はプロジェクトで使用する言語を管理するスクリタブルオブジェクトです。
   ![SimpleLocalizeManager](/Docs/SimpleLocalizeManager.png)
 1. プレハブをシーンにドロップして使用する。
-   * **UniSimpleLocalize/Prefabs/SimpleLocalizeText.prefab**
-     ![SimpleLocalizeText](/Docs/SimpleLocalizeText.png)
-   * **UniSimpleLocalize/Prefabs/SimpleLocalizeImage.prefab**
-     ![SimpleLocalizeImage](/Docs/SimpleLocalizeImage.png)
-   * **UniSimpleLocalize/Prefabs/LangSwitcher.prefab**
-     ![LangSwitcher](/Docs/LangSwitcher.png)
 
-## LICENSE
+  | PrefabPath | Img |
+  |:-----------|------------:|:------------:|
+  | **UniSimpleLocalize/Prefabs/SimpleLocalizeText.prefab** | ![SimpleLocalizeText](/Docs/SimpleLocalizeText.png) |
+  | **UniSimpleLocalize/Prefabs/SimpleLocalizeImage.prefab** | ![SimpleLocalizeImage](/Docs/SimpleLocalizeImage.png) |
+  | **UniSimpleLocalize/Prefabs/LangSwitcher.prefab** | ![LangSwitcher](/Docs/LangSwitcher.png) |
+
+## ライセンス
 [MIT](/LICENSE)
 
-## Author
+## 作者
 Archie (Akihisa Sakai)
 Twitter: [@ArchieSakai](https://twitter.com/ArchieSakai)
