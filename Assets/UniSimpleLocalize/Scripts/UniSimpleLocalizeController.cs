@@ -5,7 +5,6 @@ using UnityEngine;
 
 namespace archieSakai.UniSimpleLocalize
 {
-    [CreateAssetMenu(menuName = "UniSimpleLocalize/UniSimpleLocalizeController")]
     public class UniSimpleLocalizeController : ScriptableObject
 	{
         public List<SystemLanguage> langs = new List<SystemLanguage>();

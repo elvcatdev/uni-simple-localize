@@ -87286,7 +87286,7 @@ PrefabInstance:
     - target: {fileID: 7033715398897832972, guid: c52f761a1649746fe83af1356746d330,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7033715398897832972, guid: c52f761a1649746fe83af1356746d330,
         type: 3}
@@ -87356,7 +87356,7 @@ PrefabInstance:
     - target: {fileID: 7033715398897832975, guid: c52f761a1649746fe83af1356746d330,
         type: 3}
       propertyPath: langSpriteList.Array.size
-      value: 233315
+      value: 233375
       objectReference: {fileID: 0}
     - target: {fileID: 7033715398897832975, guid: c52f761a1649746fe83af1356746d330,
         type: 3}
@@ -89130,7 +89130,7 @@ PrefabInstance:
     - target: {fileID: 7493061002970680705, guid: d89108783555242cba78d4bf7bedcdfd,
         type: 3}
       propertyPath: langStrList.Array.size
-      value: 10590
+      value: 11195
       objectReference: {fileID: 0}
     - target: {fileID: 7493061002970680705, guid: d89108783555242cba78d4bf7bedcdfd,
         type: 3}
@@ -89319,7 +89319,7 @@ PrefabInstance:
     - target: {fileID: 7679215112245601294, guid: 828eaac796f994e6b82a7d9f55fb748b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7679215112245601294, guid: 828eaac796f994e6b82a7d9f55fb748b,
         type: 3}
