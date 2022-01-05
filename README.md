@@ -25,4 +25,4 @@ uni-simple-localize is a package that makes it easy to add multilingual support 
 
 ## Author
 Archie (Akihisa Sakai)
-Twitter: [@ArchieSakai](https://twitter.com/ArchieSakai)
+Twitter: [@EvelynSoloDev](https://twitter.com/EvelynSoloDev)
