@@ -24,5 +24,5 @@ uni-simple-localize is a package that makes it easy to add multilingual support 
 [MIT](/LICENSE)
 
 ## Author
-Archie (Akihisa Sakai)
+Evelyn GameDev
 Twitter: [@EvelynSoloDev](https://twitter.com/EvelynSoloDev)
