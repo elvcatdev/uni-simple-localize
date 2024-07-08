@@ -23,7 +23,3 @@ uni-simple-localizeはUIのTEXTとIMAGEを簡単にローカライズできる�
 
 ## ライセンス
 [MIT](/LICENSE)
-
-## 作者
-Evelyn GameDev
-Twitter: [@EvelynSoloDev](https://twitter.com/EvelynSoloDev)
